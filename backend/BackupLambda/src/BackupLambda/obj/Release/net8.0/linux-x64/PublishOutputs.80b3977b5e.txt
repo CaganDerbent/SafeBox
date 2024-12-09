@@ -1,0 +1,9 @@
+C:\Users\cagan\OneDrive\Masaüstü\BackupLambda\src\BackupLambda\bin\Release\net8.0\publish\BackupLambda.deps.json
+C:\Users\cagan\OneDrive\Masaüstü\BackupLambda\src\BackupLambda\bin\Release\net8.0\publish\BackupLambda.runtimeconfig.json
+C:\Users\cagan\OneDrive\Masaüstü\BackupLambda\src\BackupLambda\bin\Release\net8.0\publish\BackupLambda.pdb
+C:\Users\cagan\OneDrive\Masaüstü\BackupLambda\src\BackupLambda\bin\Release\net8.0\publish\Amazon.Lambda.Core.dll
+C:\Users\cagan\OneDrive\Masaüstü\BackupLambda\src\BackupLambda\bin\Release\net8.0\publish\Amazon.Lambda.S3Events.dll
+C:\Users\cagan\OneDrive\Masaüstü\BackupLambda\src\BackupLambda\bin\Release\net8.0\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\cagan\OneDrive\Masaüstü\BackupLambda\src\BackupLambda\bin\Release\net8.0\publish\AWSSDK.Core.dll
+C:\Users\cagan\OneDrive\Masaüstü\BackupLambda\src\BackupLambda\bin\Release\net8.0\publish\AWSSDK.S3.dll
+C:\Users\cagan\OneDrive\Masaüstü\BackupLambda\src\BackupLambda\bin\Release\net8.0\publish\BackupLambda.dll

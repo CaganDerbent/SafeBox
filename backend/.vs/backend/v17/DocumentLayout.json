@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cagan\\OneDrive\\Masa\u00FCst\u00FC\\project\\backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A98DC8D-59F0-491E-9D8F-4DAF39980185}|backend\\backend.csproj|c:\\users\\cagan\\onedrive\\masa\u00FCst\u00FC\\project\\backend\\backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5A98DC8D-59F0-491E-9D8F-4DAF39980185}|backend\\backend.csproj|solutionrelative:backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A98DC8D-59F0-491E-9D8F-4DAF39980185}|backend\\backend.csproj|c:\\users\\cagan\\onedrive\\masa\u00FCst\u00FC\\project\\backend\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A98DC8D-59F0-491E-9D8F-4DAF39980185}|backend\\backend.csproj|solutionrelative:backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A98DC8D-59F0-491E-9D8F-4DAF39980185}|backend\\backend.csproj|c:\\users\\cagan\\onedrive\\masa\u00FCst\u00FC\\project\\backend\\backend\\.env||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5A98DC8D-59F0-491E-9D8F-4DAF39980185}|backend\\backend.csproj|solutionrelative:backend\\.env||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A98DC8D-59F0-491E-9D8F-4DAF39980185}|backend\\backend.csproj|c:\\users\\cagan\\onedrive\\masa\u00FCst\u00FC\\project\\backend\\backend\\controllers\\filecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A98DC8D-59F0-491E-9D8F-4DAF39980185}|backend\\backend.csproj|solutionrelative:backend\\controllers\\filecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A98DC8D-59F0-491E-9D8F-4DAF39980185}|backend\\backend.csproj|c:\\users\\cagan\\onedrive\\masa\u00FCst\u00FC\\project\\backend\\backend\\services\\s3service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A98DC8D-59F0-491E-9D8F-4DAF39980185}|backend\\backend.csproj|solutionrelative:backend\\services\\s3service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A98DC8D-59F0-491E-9D8F-4DAF39980185}|backend\\backend.csproj|c:\\users\\cagan\\onedrive\\masa\u00FCst\u00FC\\project\\backend\\backend\\interfaces\\is3service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A98DC8D-59F0-491E-9D8F-4DAF39980185}|backend\\backend.csproj|solutionrelative:backend\\interfaces\\is3service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A98DC8D-59F0-491E-9D8F-4DAF39980185}|backend\\backend.csproj|c:\\users\\cagan\\onedrive\\masa\u00FCst\u00FC\\project\\backend\\backend\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A98DC8D-59F0-491E-9D8F-4DAF39980185}|backend\\backend.csproj|solutionrelative:backend\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A98DC8D-59F0-491E-9D8F-4DAF39980185}|backend\\backend.csproj|c:\\users\\cagan\\onedrive\\masa\u00FCst\u00FC\\project\\backend\\backend\\models\\filedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A98DC8D-59F0-491E-9D8F-4DAF39980185}|backend\\backend.csproj|solutionrelative:backend\\models\\filedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A98DC8D-59F0-491E-9D8F-4DAF39980185}|backend\\backend.csproj|c:\\users\\cagan\\onedrive\\masa\u00FCst\u00FC\\project\\backend\\backend\\context\\usercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A98DC8D-59F0-491E-9D8F-4DAF39980185}|backend\\backend.csproj|solutionrelative:backend\\context\\usercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A98DC8D-59F0-491E-9D8F-4DAF39980185}|backend\\backend.csproj|c:\\users\\cagan\\onedrive\\masa\u00FCst\u00FC\\project\\backend\\backend\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A98DC8D-59F0-491E-9D8F-4DAF39980185}|backend\\backend.csproj|solutionrelative:backend\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": ".env",
+              "DocumentMoniker": "C:\\Users\\cagan\\OneDrive\\Masa\u00FCst\u00FC\\project\\backend\\backend\\.env",
+              "RelativeDocumentMoniker": "backend\\.env",
+              "ToolTip": "C:\\Users\\cagan\\OneDrive\\Masa\u00FCst\u00FC\\project\\backend\\backend\\.env",
+              "RelativeToolTip": "backend\\.env",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-09T12:49:26.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FileDTO.cs",
+              "DocumentMoniker": "C:\\Users\\cagan\\OneDrive\\Masa\u00FCst\u00FC\\project\\backend\\backend\\Models\\FileDTO.cs",
+              "RelativeDocumentMoniker": "backend\\Models\\FileDTO.cs",
+              "ToolTip": "C:\\Users\\cagan\\OneDrive\\Masa\u00FCst\u00FC\\project\\backend\\backend\\Models\\FileDTO.cs",
+              "RelativeToolTip": "backend\\Models\\FileDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T14:11:18.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\cagan\\OneDrive\\Masa\u00FCst\u00FC\\project\\backend\\backend\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "backend\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\cagan\\OneDrive\\Masa\u00FCst\u00FC\\project\\backend\\backend\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "backend\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAIIAAAAAAAAAAAAswDkAAABnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T13:38:55.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cagan\\OneDrive\\Masa\u00FCst\u00FC\\project\\backend\\backend\\Program.cs",
+              "RelativeDocumentMoniker": "backend\\Program.cs",
+              "ToolTip": "C:\\Users\\cagan\\OneDrive\\Masa\u00FCst\u00FC\\project\\backend\\backend\\Program.cs",
+              "RelativeToolTip": "backend\\Program.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAowCoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T10:37:22.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\cagan\\OneDrive\\Masa\u00FCst\u00FC\\project\\backend\\backend\\appsettings.json",
+              "RelativeDocumentMoniker": "backend\\appsettings.json",
+              "ToolTip": "C:\\Users\\cagan\\OneDrive\\Masa\u00FCst\u00FC\\project\\backend\\backend\\appsettings.json",
+              "RelativeToolTip": "backend\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-05T14:50:38.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IS3Service.cs",
+              "DocumentMoniker": "C:\\Users\\cagan\\OneDrive\\Masa\u00FCst\u00FC\\project\\backend\\backend\\Interfaces\\IS3Service.cs",
+              "RelativeDocumentMoniker": "backend\\Interfaces\\IS3Service.cs",
+              "ToolTip": "C:\\Users\\cagan\\OneDrive\\Masa\u00FCst\u00FC\\project\\backend\\backend\\Interfaces\\IS3Service.cs",
+              "RelativeToolTip": "backend\\Interfaces\\IS3Service.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T11:23:41.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FileController.cs",
+              "DocumentMoniker": "C:\\Users\\cagan\\OneDrive\\Masa\u00FCst\u00FC\\project\\backend\\backend\\Controllers\\FileController.cs",
+              "RelativeDocumentMoniker": "backend\\Controllers\\FileController.cs",
+              "ToolTip": "C:\\Users\\cagan\\OneDrive\\Masa\u00FCst\u00FC\\project\\backend\\backend\\Controllers\\FileController.cs",
+              "RelativeToolTip": "backend\\Controllers\\FileController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGkAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T11:10:12.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "S3Service.cs",
+              "DocumentMoniker": "C:\\Users\\cagan\\OneDrive\\Masa\u00FCst\u00FC\\project\\backend\\backend\\Services\\S3Service.cs",
+              "RelativeDocumentMoniker": "backend\\Services\\S3Service.cs",
+              "ToolTip": "C:\\Users\\cagan\\OneDrive\\Masa\u00FCst\u00FC\\project\\backend\\backend\\Services\\S3Service.cs",
+              "RelativeToolTip": "backend\\Services\\S3Service.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAACsBAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T11:24:42.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserContext.cs",
+              "DocumentMoniker": "C:\\Users\\cagan\\OneDrive\\Masa\u00FCst\u00FC\\project\\backend\\backend\\Context\\UserContext.cs",
+              "RelativeDocumentMoniker": "backend\\Context\\UserContext.cs",
+              "ToolTip": "C:\\Users\\cagan\\OneDrive\\Masa\u00FCst\u00FC\\project\\backend\\backend\\Context\\UserContext.cs",
+              "RelativeToolTip": "backend\\Context\\UserContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T10:52:27.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\cagan\\OneDrive\\Masa\u00FCst\u00FC\\project\\backend\\backend\\Models\\User.cs",
+              "RelativeDocumentMoniker": "backend\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\cagan\\OneDrive\\Masa\u00FCst\u00FC\\project\\backend\\backend\\Models\\User.cs",
+              "RelativeToolTip": "backend\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T10:48:08.18Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
